@@ -1,0 +1,2 @@
+Contenu de monfichier.txt
+Une autre ligne
